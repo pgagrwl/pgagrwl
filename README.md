@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pgagrwl (Prayag Agrawal)  
 - 👀 I’m interested in Blockchain 
-- 🌱 I’m currently learning Blockchain and ethereum development using Solidity 
+- 🌱 I’m currently upskilling myself in solidity and smart contract security 
 - 📫 You can reach me via email at "pgagrwl@gmail.com"
 
 <!---
